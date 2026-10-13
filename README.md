@@ -1,13 +1,15 @@
 # 🎧 Salla Contact Center Analytics — Executive Operations Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Dynamic HTML with DAX](https://img.shields.io/badge/Dynamic_HTML-with_DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
+[![CSS Grid & Flexbox](https://img.shields.io/badge/Layout-CSS_Grid_%26_Flexbox-2965F1?style=for-the-badge&logo=css3&logoColor=white)]()
+[![3D Flip Cards](https://img.shields.io/badge/UI_Motion-3D_Flip_Cards-FF6F00?style=for-the-badge&logo=css3&logoColor=white)]()
+[![SVG & Animations](https://img.shields.io/badge/Graphics-SVG_%26_CSS_Animations-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Deneb](https://img.shields.io/badge/Deneb%20%7C%20Vega--Lite-8A2BE2?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://deneb-viz.github.io/)
-[![HTML5 & CSS3](https://img.shields.io/badge/HTML5%20%26%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![Advanced DAX](https://img.shields.io/badge/Advanced_DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
 [![Power Query](https://img.shields.io/badge/Power_Query-Append_ETL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Live-Portfolio%20Website-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://islamyasser424-design.github.io/portfolio-/)
 
-> **An end-to-end enterprise contact center intelligence workspace built in Microsoft Power BI. Features advanced Power Query ETL consolidation across multi-month partitions, weighted-average DAX metric engineering, custom HTML5/CSS3 visual cards, and Deneb (Vega-Lite) precision charts to monitor 1.74M+ calls across workforce operations, service quality, demand forecasting, and agent performance.**
+> **An end-to-end enterprise contact center intelligence workspace built in Microsoft Power BI. Engineered with bespoke UI/UX architecture utilizing Dynamic HTML with DAX, CSS Grid, Flexbox, custom SVG graphics, CSS keyframe animations, 3D Flip Cards, and Deneb (Vega-Lite) precision charts to monitor 1.74M+ calls across workforce operations, service quality, demand forecasting, and agent performance.**
 
 ---
 
@@ -329,15 +331,23 @@ The workspace abandons the generic corporate Power BI appearance in favor of a *
 * `Warning Accent (Forecasts):` `#F3AD69` (Warm Amber Orange)
 * `Text & Metric Highlights:` `#FFFFFF` / `#B2DFDB` (Crisp Contrast)
 
-### 🌟 Advanced Technical Implementations:
-1. **HTML & CSS inside HTML Content Visual:**
-   * Dynamic HTML banners with greeting headers and real-time user tags (`Welcome back, Islam Yasser`).
-   * Animated CSS keyframe effects: floating headset badges, pulse rings, and wave line separators.
-   * Custom circular SVG gauges rendering percentage fills dynamically via DAX SVG strings.
-2. **Deneb & Vega-Lite Custom Visualizations:**
+### 🌟 Advanced UI/UX & Web Styling Architecture:
+1. **Dynamic HTML with DAX (HTML Content Visual):**
+   * Engineered dynamic DAX measures that construct inline HTML5 & CSS3 templates in real time based on active slicers and drill-down states.
+   * Dynamic HTML banners with personalized greeting headers and real-time user tags (`Welcome back, Islam Yasser`).
+2. **Modern CSS Layout Engine (CSS Grid & Flexbox):**
+   * Multi-column executive KPI card containers structured with **CSS Grid** for precise grid-gap and alignment.
+   * Internal card alignment of badges, operational indicators, and icon wrappers structured with **CSS Flexbox**.
+3. **Interactive 3D Flip Cards & CSS Keyframe Animations:**
+   * Interactive **3D Flip Cards** utilizing `perspective`, `transform: rotateY()`, and `backface-visibility` to reveal detailed SLA and variance breakdowns on hover/interaction.
+   * Keyframe **CSS Animations**: continuous floating headset badge effect (`@keyframes float`), glowing pulse rings, and wave line transitions.
+4. **Dynamic SVG Vector Graphics & Circular Gauges:**
+   * Handcrafted vector **SVG graphics** calculated directly via DAX string manipulation.
+   * Custom circular SVG gauge meters dynamically controlling `stroke-dasharray` and `stroke-dashoffset` for real-time visualization of Service Level (91.1%), Answer Rate (98.7%), Abandonment Rate (1.3%), and Forecast Accuracy (54.2%).
+5. **Deneb & Vega-Lite Custom Visualizations:**
    * Custom line and area charts with dual-color themes, custom dashed strokes for forecasts, and pixel-precise axis padding.
    * Tailored horizontal bar visuals for leaderboards and project variance ranking.
-3. **Seamless Bookmark Navigation:**
+6. **Seamless Bookmark Navigation:**
    * Sidebar navigation menu mimicking a native web app.
    * Drawer toggle for filters, creating a clean executive canvas while preserving deep-dive filtering power.
 
