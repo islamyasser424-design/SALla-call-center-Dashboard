@@ -2,6 +2,7 @@
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Dynamic HTML with DAX](https://img.shields.io/badge/Dynamic_HTML-with_DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
+[![Domain](https://img.shields.io/badge/Domain-Contact_Center_%26_Workforce_Operations-teal?style=for-the-badge)]()
 [![CSS Grid & Flexbox](https://img.shields.io/badge/Layout-CSS_Grid_%26_Flexbox-2965F1?style=for-the-badge&logo=css3&logoColor=white)]()
 [![3D Flip Cards](https://img.shields.io/badge/UI_Motion-3D_Flip_Cards-FF6F00?style=for-the-badge&logo=css3&logoColor=white)]()
 [![SVG & Animations](https://img.shields.io/badge/Graphics-SVG_%26_CSS_Animations-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
